@@ -1,4 +1,7 @@
-# <MUHAMMAD />
+# nazmel
 
-```txt
-> 𝕄𝕌ℍ𝔸𝕄𝕄𝔸𝔻
+> developer
+
+>>> FULLSTACK
+>>> DEVELOPER
+>>> WANNABE
